@@ -1,0 +1,20 @@
+{
+  "name": "SimpleWebServer",
+  "version": "1.0.0",
+  "description": "Description & Features  * Installing & Setting up Node.js * Nodejs.org Code * Handling HTTP Requests * NPM/Modules * Serving HTML Files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitchhetri/SimpleWebServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitchhetri/SimpleWebServer/issues"
+  },
+  "homepage": "https://github.com/rohitchhetri/SimpleWebServer#readme"
+}
